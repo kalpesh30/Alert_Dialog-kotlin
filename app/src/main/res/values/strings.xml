@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AlertDialog KOtlin</string>
+    <string name="do_it">Do It</string>
+</resources>
